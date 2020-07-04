@@ -47,3 +47,10 @@ Locate configure method (-> Ctrl + o) and copy it.
 	to
 		this.http.get('<url>', headers : new HttpHeaders({Authorization: 'basic ' + window.btoa(<user> + ':' + <password>)}))
 		this.http.put('<url>', headers : new HttpHeaders({Authorization: 'basic ' + window.btoa(<user> + ':' + <password>)}))
+
+### Fully working set :
+*) Angular GUI : 
+https://github.com/abhaylodha/Angular_Common_Project
+*) Spring Boot Backend : 
+ https://github.com/abhaylodha/SpringBoot_ProfileManagement
+ 
